@@ -29,4 +29,4 @@ MIT © acys / cys
 > 我会在正式版之后会逐渐兼容以下Mod：\
 > 农夫乐事\
 > Xaero's Minimap & Xaero's Worldmap\
-> 存储乐事\
+> 存储乐事
