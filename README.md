@@ -26,7 +26,7 @@ MIT © acys / cys
 ---
 
 ## 关于以后会兼容的Mod
-> 我会在正式版之后会逐渐兼容以下Mod：
-> 农夫乐事
-> Xaero's Minimap & Xaero's Worldmap
-> 存储乐事
+> 我会在正式版之后会逐渐兼容以下Mod：\
+> 农夫乐事\
+> Xaero's Minimap & Xaero's Worldmap\
+> 存储乐事\
