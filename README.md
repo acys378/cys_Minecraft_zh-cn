@@ -1,0 +1,2 @@
+# cys_Minecraft_native_zh_cn
+一个Minecraft的语言包
