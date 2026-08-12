@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "description": "§b梗体中文 §fby §acys"
+  },
+  "language": {
+    "wtf": {
+      "name": "wtf",
+      "region": "veryNB",
+      "bidirectional": false
+    }
+  }
+}
