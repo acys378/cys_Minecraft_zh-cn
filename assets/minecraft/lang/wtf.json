@@ -1,5 +1,6 @@
 // @date 2026/8/10   修改了一些菜单文本以及成就文本
 // @date 2026/8/11   修改了一些生物名称，并做了相关改动
+// @date 2026/8/12   修改了一些物品名称
 {
     "accessibility.onboarding.accessibility.button": "辅助功能设置…",
     "accessibility.onboarding.accessibility.button.narration": "辅助功能设置",
