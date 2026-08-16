@@ -3,7 +3,7 @@
 一个用于 Minecraft 26.2 的中文语言包。
 
 > ⚠️ 注意：这个语言包仅适用于 26.2，请勿装载到其他版本。\
-> ⚠️ 注意：这个语言包的beta标签版本除Jade以外不兼容任何Mod，我也许会在alpha标签版本兼容一些Mod，如Xaero's Minimap、Iris
+> ⚠️ 注意：这个语言包除Jade以外不兼容任何Mod
 ---
 
 ## 使用方法
@@ -24,9 +24,3 @@
 ## 许可证
 MIT © acys / cys
 ---
-
-## 关于以后会兼容的Mod
-> 我会在正式版之后会逐渐兼容以下Mod：\
-> 农夫乐事\
-> Xaero's Minimap & Xaero's Worldmap\
-> 存储乐事
