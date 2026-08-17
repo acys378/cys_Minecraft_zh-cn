@@ -1,4 +1,4 @@
-# cys_Minecraft_native_zh_cn
+# cys_Minecraft_zh-cn
 
 一个用于 Minecraft 26.2 的中文语言包。
 
